@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Laerc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Laerc\\.nuget\\packages"
+    ]
+  }
+}
